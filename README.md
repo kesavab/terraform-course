@@ -1,3 +1,5 @@
+A very good template for code commit/code build/code pipeline to Fargate available at codepipeline-demo. This uses buildspec.yaml to build the project, prepare the task definitation, and app spec yaml files. Initial terraform files helps to create aws code commit, build, pipeline and tasks. 
+
 # terraform-course
 
 * These files are part of my Udemy course about Terraform
